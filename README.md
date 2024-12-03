@@ -1,5 +1,9 @@
 Implemented various traditional Supervised ML techniques on Customer Churn data.
 
+
+
+
+
 Feature:	Description
 CustomerID: 	Unique identifier for each customer
 
@@ -24,6 +28,12 @@ ChurnRisk:	Probability of the customer churning (0 to 1)
 PurchaseNextMonth:	Whether the customer will make a purchase next month (0 or 1)
 
 ExpectedSpend:	Expected spending amount next month in USD
+
+
+
+
+
+
 
 
 
